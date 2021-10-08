@@ -1,0 +1,5 @@
+// .env ファイルのひな形
+// アプリケーションを実行するには、このファイルを ".env" にコピーした上で、Cognitive Services の Endpoint および Key に適切なものを設定してください。
+// また先頭3行のコメントは削除してください。
+COG_SERVICE_ENDPOINT=your_cognitive_services_endpoint
+COG_SERVICE_KEY=your_cognitive_services_key

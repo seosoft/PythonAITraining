@@ -1,5 +1,1 @@
-この本素晴らしいです。
-現在のテクノロジー状況全般を網羅されています。
-私はテクノロジー信奉者でテクノロジー関係の本を継続的に買い漁っていますが、
-この本は特に良かったです。
-迷わず買いですね
+I am half way through the book, and I would give 5 stars to this book. I like the examples that David used to describe VAE and GAN. David is a great writer who balances technical depth and lucid examples to illustrate the key concepts. I would strongly encourage David to write technical books in the near future.

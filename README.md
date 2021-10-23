@@ -18,7 +18,7 @@ Python の利用例として AI プログラミングもあわせて体験しま
 2. [Python の基礎](2_PythonBasic.ipynb)
 3. [Azure Cognitive Services で AI プログラミング](3_AIbasic.ipynb)
 
-補足1. [Cognitive Services リソースの作成方法](a01_createcog.ipynb)
+補足1. [Cognitive Services リソースの作成方法](a01_createcog.ipynb)  
 補足2. [Cognitive Services リソースの削除方法](a02_deletecog.ipynb)
 
 ---

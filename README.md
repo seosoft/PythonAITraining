@@ -21,7 +21,7 @@ Python の利用例として AI プログラミングもあわせて体験しま
 2. [Python の基礎](2_PythonBasic.ipynb)
 3. [Azure Cognitive Services で AI プログラミング](3_AIBasic.ipynb)
 
-補足0. [JupyterLab Desktop App のインストール](a00_install_jupyter.md)
+補足0. [JupyterLab Desktop App のインストール](a00_install_jupyter.md)  
 補足1. [Cognitive Services リソースの作成方法](a01_createcog.ipynb)  
 補足2. [Cognitive Services リソースの削除方法](a02_deletecog.ipynb)
 

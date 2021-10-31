@@ -25,9 +25,6 @@ Python の利用例として AI プログラミングもあわせて体験しま
 補足1. [Cognitive Services リソースの作成方法](a01_createcog.ipynb)  
 補足2. [Cognitive Services リソースの削除方法](a02_deletecog.ipynb)
 
-"Azure Cognitive Services で AI プログラミング" を実施するには [**Azure サブスクリプション**](https://azure.microsoft.com/ja-jp/) が必要です。  
-アカウントを持っていない場合は [無料の評価版アカウントを取得](https://azure.microsoft.com/ja-jp/free/) することができます。
-
 この演習は [JupyterLab Desktop App](https://github.com/jupyterlab/jupyterlab-desktop) で実行することを前提としています。  
 初心者、入門者などでも環境構築しやすいこと、および集合形式の演習時に事前の環境構築がしやすいことが理由です。  
 その他の Python 開発環境でも特に問題なく実行できるはずですが、それらについてはここでは触れません。
@@ -40,7 +37,10 @@ Python の利用例として AI プログラミングもあわせて体験しま
 - Jupyter Notebook/Lab、JupyterLab Desktop App などがインストールされていない場合は [JupyterLab Desktop App のインストール](a00_install_jupyter.md) から始めてください。
 
 - 演習3 "Azure Cognitive Services で AI プログラミング" の演習で利用する Cognitive Services のリソースがまだない場合は [Cognitive Services リソースの作成方法](a01_createcog.ipynb) でリソースを作成してください。  
-ただしこの演習を実施しない場合は Cognitive Services のリソース作成は不要です。
+演習3 を実施しない場合は、Azure サブスクリプションや Cognitive Services のリソース作成は不要です。
+
+- Cognitive Services のリソースを作成するには、[**Azure サブスクリプション**](https://azure.microsoft.com/ja-jp/) が必要です。  
+アカウントを持っていない場合は [無料の評価版アカウントを取得](https://azure.microsoft.com/ja-jp/free/) することができます。
 
 これらが完了したら演習0 から始めてください。
 

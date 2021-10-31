@@ -21,6 +21,9 @@ Python の利用例として AI プログラミングもあわせて体験しま
 補足1. [Cognitive Services リソースの作成方法](a01_createcog.ipynb)  
 補足2. [Cognitive Services リソースの削除方法](a02_deletecog.ipynb)
 
+> "Azure Cognitive Services で AI プログラミング" を実施するには [**Azure サブスクリプション**](https://azure.microsoft.com/ja-jp/) が必要です。  
+> アカウントを持っていない場合は [無料の評価版アカウントを取得](https://azure.microsoft.com/ja-jp/free/) することができます。
+
 ---
 
 この演習は、[OCA 大阪デザイン＆ITテクノロジー専門学校](https://www.oca.ac.jp/) の [オープンキャンパスでの体験学習](https://www.oca.ac.jp/opencampus/24265/) 教材として開発したものです。  
